@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 📘 **Tutorial**
 
-## Getting Started
+<sub>This repository contains the code corresponding to an in-depth tutorial. It is highly recommended to follow the instructions to set up everything, including deploying on AWS.</sub>
 
-First, run the development server:
+<sub>This tutorial is suitable for both beginners and experts.</sub>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧱 **Tech Stack**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js**
+- **Tailwind CSS**
+- **Redux Toolkit**
+- **Redux Toolkit Query**
+- **Material UI Data Grid**
+- **Node.js**
+- **Prisma**
+- **AWS EC2**
+- **AWS RDS**
+- **AWS API Gateway**
+- **AWS Amplify**
+- **AWS S3**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🔗 **Resources and Links**
 
-To learn more about Next.js, take a look at the following resources:
+### 🖼️ **Image Files**
+- [Server assets to download](#)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### ⚙️ **Configuration and Code**
+- [tailwind.config.ts](#) <sub>(to copy)</sub>  
+- [Redux store file](#) <sub>(to copy)</sub>  
+- [Seed files for database](#) <sub>(to copy)</sub>  
+- [Seed data files](#) <sub>(to download)</sub>  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 📚 **Additional Resources**
+- [Data model diagram](#)
+- [Prisma schema file](#)
+- [AWS commands](#)
